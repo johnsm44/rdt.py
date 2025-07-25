@@ -1,9 +1,3 @@
-"""
-By: Alyssa Comstock
-Date: 4/30/2021
-Class: CS372 - Intro to computer networks
-"""
-
 from segment import Segment
 
 
